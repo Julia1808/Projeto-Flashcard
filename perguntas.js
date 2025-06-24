@@ -15,9 +15,3 @@ criaCartao(
     'O que é um polígono?',
     'É uma figura geométrica plana e fechada, formada por segmentos de reta que não se cruzam'
 )
-
-criaCartao(
-    'Química'
-    
-
-)
