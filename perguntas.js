@@ -15,3 +15,15 @@ criaCartao(
     'O que é um polígono?',
     'É uma figura geométrica plana e fechada, formada por segmentos de reta que não se cruzam'
 )
+
+ criaCartao(
+    'Inglês',
+    'Como se despedir em inglês?',
+    'Goodbye - bye - seeya - see you later - see you tomorrow'
+ )
+
+ criaCartao(
+    'Química',
+    'O que é uma reação química?',
+    'Uma reação química envolve a mudança na composição molecular dos reagentes, resultando em novos produtos com propriedades diferentes'
+ )
